@@ -1,6 +1,6 @@
 ## Andrea Rossetti
 
-Interested in low-level software, system programming, physical simulations, control systems.
+Interested in low-level software, systems programming, physical simulations, control systems.
 
 **Currently**
 - Tech Lead at [Ave Europa](https://ave-europa.eu/) — architecting and leading
