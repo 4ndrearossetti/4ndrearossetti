@@ -1,16 +1,15 @@
-## Hi there 👋
+## Andrea Rossetti
 
-<!--
-**rssndr/rssndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in low-level software, system programming, physical simulations, control systems.
 
-Here are some ideas to get you started:
+**Currently**
+- Tech Lead at [Ave Europa](https://ave-europa.eu/) — architecting and leading
+  development of the Europe-wide organisation's full IT infrastructure and custom platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- [micrograd.c](https://github.com/rssndr/micrograd.c) — autograd engine in C, inspired by Karpathy's micrograd
+- [PID-controller](https://github.com/rssndr/PID-controller) — quadcopter altitude controller with physics simulation
+- [cinit](https://github.com/rssndr/cinit) — quick C project initialisation
+
+**Website**
+[andrearossetti.me](https://andrearossetti.me)
