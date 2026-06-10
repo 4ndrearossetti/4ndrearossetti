@@ -6,8 +6,8 @@ Interested in low-level software, systems programming, physical simulations, con
 - Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa) — architecting and leading development of the Europe-wide organisation's full IT infrastructure and custom platforms.
 
 **Projects**
+- [PID-controller](https://github.com/4ndrearossetti/PID-controller) — quadcopter flight controller (6-DOF) with 3D physics simulation
 - [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — autograd engine in C, inspired by Karpathy's micrograd
-- [PID-controller](https://github.com/4ndrearossetti/PID-controller) — quadcopter altitude controller with physics simulation
 
 **Tools**
 - [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor.
