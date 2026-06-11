@@ -11,7 +11,7 @@ Interested in low-level software, systems programming, physical simulations, con
 
 **Tools**
 - [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor.
-- [cinit](https://github.com/4ndrearossetti/cinit) — quick C project initialisation
+- [cinit](https://github.com/4ndrearossetti/cinit) — quick C project repository and git initialization
 
 **Website**
 [andrearossetti.me](https://andrearossetti.me)
