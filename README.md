@@ -16,4 +16,4 @@ Interested in low-level software, systems programming, physical simulations, con
 **Website**
 [andrearossetti.me](https://andrearossetti.me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrearossetti&card_width=650&langs_count=12&layout=compact&theme=tokyonight&exclude_repo=andrearossetti.me,clipship)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrearossetti&card_width=650&langs_count=12&layout=compact&theme=dark&exclude_repo=andrearossetti.me,clipship)](https://github.com/anuraghazra/github-readme-stats)
