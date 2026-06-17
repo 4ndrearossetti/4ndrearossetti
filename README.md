@@ -15,5 +15,3 @@ Interested in low-level software, systems programming, physical simulations, con
 
 **Website**
 [andrearossetti.me](https://andrearossetti.me)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrearossetti&layout=compact)
