@@ -1,5 +1,7 @@
 ## Andrea Rossetti
 
+[andrearossetti.me](https://andrearossetti.me)
+
 Interested in low-level software, systems programming, physical simulations, control systems, working toward autonomous drone systems and aerial warfare technology.
 
 **Currently**
@@ -12,8 +14,5 @@ Interested in low-level software, systems programming, physical simulations, con
 **Tools**
 - [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor
 - [cinit](https://github.com/4ndrearossetti/cinit) — quick C project repository and git initialization
-
-**Website**
-[andrearossetti.me](https://andrearossetti.me)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrearossetti&card_width=650&langs_count=12&layout=compact&theme=dark&exclude_repo=andrearossetti.me,clipship)](https://github.com/anuraghazra/github-readme-stats)
