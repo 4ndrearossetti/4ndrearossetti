@@ -2,7 +2,7 @@
 
 [andrearossetti.me](https://andrearossetti.me)
 
-Building toward autonomous drone systems and aerial warfare technology — firmware, sensor fusion, control theory, from scratch in C.
+Building towards autonomous drone systems and aerial warfare technology — firmware, sensor fusion, control theory, from scratch in C.
 
 **Currently**
 - Founder & Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa), a pro-Ukraine pan-European political movement — founded the Tech Working Group, architected a self-hosted stack (9 services, federated SSO via Keycloak) across national chapters.
