@@ -3,14 +3,14 @@
 Interested in low-level software, systems programming, physical simulations, control systems, working toward autonomous drone systems and aerial warfare technology.
 
 **Currently**
-- Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa) — architecting and leading development of the Europe-wide organisation's full IT infrastructure and custom platforms.
+- Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa) — Founder & Tech Lead at Ave Europa, a pro-Ukraine pan-European political movement — founded the Tech Working Group, architected a self-hosted stack (9 services, federated SSO via Keycloak) across national chapters.
 
 **Projects**
-- [PID-controller](https://github.com/4ndrearossetti/PID-controller) — quadcopter flight controller (6-DOF) with 3D physics simulation
-- [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — autograd engine in C, inspired by Karpathy's micrograd
+- [esp32-controller](https://github.com/4ndrearossetti/esp32-controller) — 200Hz cascaded PID flight controller on ESP32, FreeRTOS, MPU-6050 + complementary filter — real-hardware port of my [PID-controller](https://github.com/4ndrearossetti/PID-controller) sim
+- [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — scalar-valued autograd engine in C with iterative topo sort, Adam optimiser, valgrind-clean ownership-safe teardown
 
 **Tools**
-- [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor.
+- [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor
 - [cinit](https://github.com/4ndrearossetti/cinit) — quick C project repository and git initialization
 
 **Website**
