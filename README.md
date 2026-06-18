@@ -2,10 +2,10 @@
 
 [andrearossetti.me](https://andrearossetti.me)
 
-Interested in low-level software, systems programming, physical simulations, control systems, working toward autonomous drone systems and aerial warfare technology.
+Building toward autonomous drone systems and aerial warfare technology — firmware, sensor fusion, control theory, from scratch in C.
 
 **Currently**
-- Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa) — Founder & Tech Lead at Ave Europa, a pro-Ukraine pan-European political movement — founded the Tech Working Group, architected a self-hosted stack (9 services, federated SSO via Keycloak) across national chapters.
+- Founder & Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa), a pro-Ukraine pan-European political movement — founded the Tech Working Group, architected a self-hosted stack (9 services, federated SSO via Keycloak) across national chapters.
 
 **Projects**
 - [esp32-controller](https://github.com/4ndrearossetti/esp32-controller) — 200Hz cascaded PID flight controller on ESP32, FreeRTOS, MPU-6050 + complementary filter — real-hardware port of my [PID-controller](https://github.com/4ndrearossetti/PID-controller) sim
