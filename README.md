@@ -7,7 +7,7 @@ Interested in low-level software, systems programming, physical simulations, con
 
 **Projects**
 - [esp32-controller](https://github.com/4ndrearossetti/esp32-controller) — 200Hz cascaded PID flight controller on ESP32, FreeRTOS, MPU-6050 + complementary filter — real-hardware port of my [PID-controller](https://github.com/4ndrearossetti/PID-controller) sim
-- [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — scalar-valued autograd engine in C with iterative topo sort, Adam optimiser, valgrind-clean ownership-safe teardown
+- [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — scalar-valued autograd engine and neural network library in C with iterative topo sort, Adam optimiser, valgrind-clean ownership-safe teardown
 
 **Tools**
 - [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor
