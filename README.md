@@ -13,6 +13,7 @@ Building towards autonomous drone systems and aerial warfare technology — firm
 
 **Tools**
 - [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor
+- [OSINTcollector](https://github.com/4ndrearossetti/OSINTcollector) - self-hosted geopolitical OSINT aggregator with RAG Q&A and entity graph. Single-container, no cloud dependency.
 - [cinit](https://github.com/4ndrearossetti/cinit) — quick C project repository and git initialization
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrearossetti&card_width=650&langs_count=12&layout=compact&theme=dark&exclude_repo=andrearossetti.me,clipship,OSINTcollector)](https://github.com/anuraghazra/github-readme-stats)
