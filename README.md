@@ -14,3 +14,5 @@ Building towards autonomous drone systems and aerial warfare technology — firm
 **Tools**
 - [clipship](https://github.com/4ndrearossetti/clipship) — minimal, self-hosted .md web clipper, no cloud, no account, no vendor
 - [cinit](https://github.com/4ndrearossetti/cinit) — quick C project repository and git initialization
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&exclude_repo=clipship,andrearossetti.me,denied.systems)
