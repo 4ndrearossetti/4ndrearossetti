@@ -1,4 +1,4 @@
-## Andrea Rossetti
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/178fad14-07fe-4afc-aed4-a6866d234a39" />## Andrea Rossetti
 
 [andrearossetti.me](https://andrearossetti.me)
 
@@ -9,6 +9,7 @@ Building towards autonomous drone systems and aerial warfare technology — firm
 
 **Projects**
 - [esp32-controller](https://github.com/4ndrearossetti/esp32-controller) — 200Hz cascaded PID flight controller on ESP32, FreeRTOS, MPU-6050 + complementary filter — real-hardware port of my [PID-controller](https://github.com/4ndrearossetti/PID-controller) sim
+- [tinyRTOS](https://github.com/4ndrearossetti/tinyRTOS) — minimal preemptive RTOS for ARM Cortex-M, built from scratch to understand schedulers, context switching, TCBs, and interrupts at the register and stack level.
 - [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — scalar-valued autograd engine and neural network library in C with iterative topo sort, Adam optimiser, valgrind-clean ownership-safe teardown
 
 **Tools**
