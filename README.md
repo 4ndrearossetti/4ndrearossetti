@@ -12,4 +12,4 @@ Building towards autonomous drone systems and aerial warfare technology — firm
 - [tinyRTOS](https://github.com/4ndrearossetti/tinyRTOS) — minimal preemptive RTOS for ARM Cortex-M, built from scratch to understand schedulers, context switching, TCBs, and interrupts at the register and stack level.
 - [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — scalar-valued autograd engine and neural network library in C with iterative topo sort, Adam optimiser, valgrind-clean ownership-safe teardown
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=4ndrearossetti&layout=compact&card_width=600&theme=github_dark&langs_count=8&exclude_repo=clipship,andrearossetti.me,denied.systems,postiz-acc-mgmt,kickstart.nvim,arduino-radar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrearossetti&layout=compact&card_width=600&theme=github_dark&langs_count=8&exclude_repo=clipship,andrearossetti.me,denied.systems,postiz-acc-mgmt,kickstart.nvim,arduino-radar)
