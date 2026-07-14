@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/178fad14-07fe-4afc-aed4-a6866d234a39" />## Andrea Rossetti
+## Andrea Rossetti
 
 [andrearossetti.me](https://andrearossetti.me)
 
