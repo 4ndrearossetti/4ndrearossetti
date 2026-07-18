@@ -8,7 +8,7 @@ Building towards autonomous drone systems and aerial warfare technology — firm
 - Founder & Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa), a pro-Ukraine pan-European political movement — founded the Tech Working Group, architected a self-hosted stack (9 services, federated SSO via Keycloak) across national chapters.
 
 **Projects**
-- [esp32-controller](https://github.com/4ndrearossetti/esp32-controller) — 200Hz cascaded PID flight controller on ESP32, FreeRTOS, MPU-6050 + complementary filter — real-hardware port of my [PID-controller](https://github.com/4ndrearossetti/PID-controller) sim
+- [flight-controller](https://github.com/4ndrearossetti/flight-controller) — 200Hz cascaded PID flight controller on ESP32, FreeRTOS, MPU-6050 + complementary filter — real-hardware port of my [PID-controller](https://github.com/4ndrearossetti/PID-controller) sim
 - [tinyRTOS](https://github.com/4ndrearossetti/tinyRTOS) — minimal preemptive RTOS for ARM Cortex-M, built from scratch to understand schedulers, context switching, TCBs, and interrupts at the register and stack level.
 - [micrograd.c](https://github.com/4ndrearossetti/micrograd.c) — scalar-valued autograd engine and neural network library in C with iterative topo sort, Adam optimiser, valgrind-clean ownership-safe teardown
 
