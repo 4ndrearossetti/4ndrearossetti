@@ -11,7 +11,3 @@ Systems programming. C, embedded, control theory, autonomous gps-denied flight, 
 
 **Currently**
 - Founder & Tech Lead at [Ave Europa](https://andrearossetti.me/experience/ave-europa), a pro-Ukraine pan-European political movement — founded the Tech Working Group, leading a team architecting and maintaining a self-hosted stack (9 services, federated SSO via Keycloak) and building custom tools for 27+ national chapters.
-
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=4ndrearossetti&layout=compact&card_width=550&theme=github_dark&langs_count=6&exclude_repo=blip,cinit,clipship,andrearossetti.me,denied.systems,postiz-acc-mgmt,kickstart.nvim,arduino-radar,local-llm-measurement)
-
